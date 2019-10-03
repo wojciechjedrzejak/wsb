@@ -1,0 +1,7 @@
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\bin\Debug\pierwszy_plik.exe.config
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\bin\Debug\pierwszy_plik.exe
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\bin\Debug\pierwszy_plik.pdb
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\obj\Debug\pierwszy_plik.csprojAssemblyReference.cache
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\obj\Debug\pierwszy_plik.csproj.CoreCompileInputs.cache
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\obj\Debug\pierwszy_plik.exe
+C:\git\podstawy_programowania\zajęcia1\pierwszy_plik\pierwszy_plik\obj\Debug\pierwszy_plik.pdb
