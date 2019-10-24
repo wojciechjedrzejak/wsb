@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\bin\Debug\tablice_wielowymiarowe.exe.config
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\bin\Debug\tablice_wielowymiarowe.exe
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\bin\Debug\tablice_wielowymiarowe.pdb
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\obj\Debug\tablice_wielowymiarowe.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\obj\Debug\tablice_wielowymiarowe.exe
+C:\Users\Student\Desktop\zajecia4\tablice_wielowymiarowe\tablice_wielowymiarowe\obj\Debug\tablice_wielowymiarowe.pdb
