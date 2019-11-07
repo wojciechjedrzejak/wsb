@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wyjatki3", "wyjatki3\wyjatki3.csproj", "{16CEBC23-2628-4BBE-958F-BC011367CACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CEBC23-2628-4BBE-958F-BC011367CACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CEBC23-2628-4BBE-958F-BC011367CACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CEBC23-2628-4BBE-958F-BC011367CACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CEBC23-2628-4BBE-958F-BC011367CACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF448DA1-FC84-4AED-AF21-720FA01BA8DB}
+	EndGlobalSection
+EndGlobal
