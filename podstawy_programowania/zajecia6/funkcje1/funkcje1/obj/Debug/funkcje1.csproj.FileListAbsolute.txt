@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\zajecia6\funkcje1\funkcje1\bin\Debug\funkcje1.exe.config
+C:\Users\Student\Desktop\zajecia6\funkcje1\funkcje1\bin\Debug\funkcje1.exe
+C:\Users\Student\Desktop\zajecia6\funkcje1\funkcje1\bin\Debug\funkcje1.pdb
+C:\Users\Student\Desktop\zajecia6\funkcje1\funkcje1\obj\Debug\funkcje1.exe
+C:\Users\Student\Desktop\zajecia6\funkcje1\funkcje1\obj\Debug\funkcje1.pdb

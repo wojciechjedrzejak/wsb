@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\bin\Debug\przestrzenie_nazw.exe.config
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\bin\Debug\przestrzenie_nazw.exe
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\bin\Debug\przestrzenie_nazw.pdb
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\obj\Debug\przestrzenie_nazw.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\obj\Debug\przestrzenie_nazw.exe
+C:\Users\Student\Desktop\zajecia6\przestrzenie_nazw\przestrzenie_nazw\obj\Debug\przestrzenie_nazw.pdb
