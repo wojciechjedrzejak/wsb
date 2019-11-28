@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\zajecia8\wskazniki_3\wskazniki_3\bin\Debug\wskazniki_3.exe.config
+C:\Users\Student\Desktop\zajecia8\wskazniki_3\wskazniki_3\bin\Debug\wskazniki_3.exe
+C:\Users\Student\Desktop\zajecia8\wskazniki_3\wskazniki_3\bin\Debug\wskazniki_3.pdb
+C:\Users\Student\Desktop\zajecia8\wskazniki_3\wskazniki_3\obj\Debug\wskazniki_3.exe
+C:\Users\Student\Desktop\zajecia8\wskazniki_3\wskazniki_3\obj\Debug\wskazniki_3.pdb

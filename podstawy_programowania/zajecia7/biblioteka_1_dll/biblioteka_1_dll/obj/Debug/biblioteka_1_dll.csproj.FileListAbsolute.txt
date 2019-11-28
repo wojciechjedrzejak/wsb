@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\zajecia8\biblioteka_1_dll\biblioteka_1_dll\bin\Debug\biblioteka_1_dll.dll
+C:\Users\Student\Desktop\zajecia8\biblioteka_1_dll\biblioteka_1_dll\bin\Debug\biblioteka_1_dll.pdb
+C:\Users\Student\Desktop\zajecia8\biblioteka_1_dll\biblioteka_1_dll\obj\Debug\biblioteka_1_dll.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\zajecia8\biblioteka_1_dll\biblioteka_1_dll\obj\Debug\biblioteka_1_dll.dll
+C:\Users\Student\Desktop\zajecia8\biblioteka_1_dll\biblioteka_1_dll\obj\Debug\biblioteka_1_dll.pdb
