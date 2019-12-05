@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\bin\Debug\pliki_2.exe.config
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\bin\Debug\pliki_2.exe
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\bin\Debug\pliki_2.pdb
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\obj\Debug\pliki_2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\obj\Debug\pliki_2.exe
+C:\Users\Student\Desktop\zajecia8\pliki_2\pliki_2\obj\Debug\pliki_2.pdb

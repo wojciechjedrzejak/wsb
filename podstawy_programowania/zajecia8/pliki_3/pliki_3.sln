@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pliki_3", "pliki_3\pliki_3.csproj", "{AC612675-95F5-48A9-AA86-78FC5B4E310E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC612675-95F5-48A9-AA86-78FC5B4E310E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC612675-95F5-48A9-AA86-78FC5B4E310E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC612675-95F5-48A9-AA86-78FC5B4E310E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC612675-95F5-48A9-AA86-78FC5B4E310E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF508A7-6E62-4317-AE23-605126BFDAAF}
+	EndGlobalSection
+EndGlobal
