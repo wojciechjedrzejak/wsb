@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Student\Desktop\zajecia9\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
